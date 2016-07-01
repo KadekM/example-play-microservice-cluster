@@ -1,0 +1,4 @@
+
+GET  /entities   bar.controllers.MainController.list()
+
+POST  /entities  bar.controllers.MainController.insert()

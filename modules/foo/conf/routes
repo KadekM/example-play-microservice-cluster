@@ -1,0 +1,2 @@
+
+GET  /entities-remote   foo.controllers.MainController.list()
